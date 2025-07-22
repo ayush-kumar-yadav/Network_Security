@@ -3,3 +3,6 @@ pandas
 numpy
 scikit-learn
 pymongo
+certifi
+#-e . # this will take u to setup.py
+#connects setup.py to requirements.txt without damaging anything 
